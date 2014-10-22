@@ -1,5 +1,5 @@
 {
-  "name": "najax",
+  "name": "control-najax",
   "description": "fast, flexible, unit-tested jquery-ajax-stye serverside requests",
   "version": "0.1.05",
   "homepage": "https://github.com/alanclarke/najax",
@@ -8,17 +8,20 @@
     "email": "self@alz.so",
     "url": "alz.so"
   },
+  "contributors": [
+    "Charles Phillips <charles@doublerebel.com>"
+  ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:alanclarke/najax.git"
+    "url": "git@github.com:control/control-najax.git"
   },
   "bugs": {
-    "url": "https://github.com/alanclarke/najax/issues"
+    "url": "https://github.com/control/control-najax/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/alanclarke/najax/blob/master/LICENSE-MIT"
+      "url": "https://github.com/control/control-najax/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/najax",
